@@ -1,0 +1,15 @@
+{
+  "name": "Sequelize_MySQL_Tut-03dbconnect",
+  "version": "1.0.0",
+  "description": "A Node.js app for uploading PDF and image files",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "sequelize": "^6.6.5",
+    "mysql2": "^2.2.5"
+  }
+}
